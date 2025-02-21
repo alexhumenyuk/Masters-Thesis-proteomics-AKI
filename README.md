@@ -1,10 +1,10 @@
 # Phosphoproteome characterization of acute kidney injury
 ## Overview
-- **Project context** 
+**Project context** 
 
   We aimed to identify phosphorylated renal proteins with significant abundance changes during cisplatin-induced acute kidney injury (AKI) in mice, as these proteins may serve as potential biomarkers or therapeutic targets.
 
-- **Data summary**
+**Data summary**
 
   False discovery rate (FDR)-corrected abundances of 3,709 phosphopeptides, quantified using tandem mass tag labeling coupled with high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS). Currently, both the data and results are not publicly available, as they await publication.
   
