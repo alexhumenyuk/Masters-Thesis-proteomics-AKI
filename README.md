@@ -6,9 +6,9 @@
 
 **Data summary**
 
-  False discovery rate (FDR)-corrected abundances of 3,709 phosphopeptides, quantified using tandem mass tag labeling coupled with high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS). Currently, both the data and results are not publicly available, as they await publication.
+  False discovery rate (FDR)-corrected abundances of 3,709 phosphopeptides were used, quantified using tandem mass tag labeling coupled with high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS). Currently, both the data and results are not publicly available, as they await publication.
   
-- **Analysis tools**: Jupyter Notebooks and [Enrichr](https://maayanlab.cloud/Enrichr/).
+**Analysis tools**: Jupyter Notebooks and [Enrichr](https://maayanlab.cloud/Enrichr/).
 
 ## Analysis & Results
 ### Principal component analysis (PCA)
