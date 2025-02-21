@@ -26,4 +26,7 @@ A volcano plot was generated to facilitated the identification of potential biom
 
 <img src="/Images/Volcano_plot.png">
 
-### Enrichment analysis
+### Enrichment analysis (biological process)
+The FDR-corrected phosphopeptides corresponded to 1,800 non-redundant genes, while the phosphoproteins with a statistically significant fold change corresponded to 97 non-redundant genes. These two sets of genes were compared to determine if certain biological processes were overrepresented during AKI.
+
+<img src="/Images/Enrichment.png">
