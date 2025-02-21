@@ -1,4 +1,4 @@
-# Phosphoproteome characterization of acute kidney injury
+# Phosphoproteome Characterization of Acute Kidney Injury
 ## Overview
 **Project context** 
 
