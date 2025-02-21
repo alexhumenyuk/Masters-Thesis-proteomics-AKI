@@ -22,7 +22,7 @@ To visualize the most significant differences between the two groups, a heatmap 
 <img src="/Images/Heatmap.png">
 
 ### Volcano plot
-A volcano plot was generated to facilitated the identification of potential biomarkers or therapeutic targets by highlighting proteins with both significant fold changes and statistical significance.
+A volcano plot was generated to facilitated the identification of potential biomarkers or therapeutic targets by highlighting phosphoproteins with both significant fold changes and statistical significance.
 
 <img src="/Images/Volcano_plot.png">
 
